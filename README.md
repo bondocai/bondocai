@@ -26,4 +26,7 @@ clipboard) until the model decides. Page contents go only to a model server you 
   safe in-memory archive inspection (zip bombs, crafted archives), fail-closed behavior when
   the model can't be reached, and fixes for two bugs that only live phishing exposed.
 
+## Contact
+[LinkedIn](https://www.linkedin.com/in/voltaire-bondoc-866286286/)
+
 *Built with AI assistance (Claude); the threat modeling, testing and security decisions are my own.*
