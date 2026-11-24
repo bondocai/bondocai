@@ -11,7 +11,7 @@ I build and break practical defenses against phishing and scams, with a focus on
 
 ## Projects
 
-### Safari Script Observer *(private, in active development)*
+### [Safari Script Observer](https://github.com/bondocai/safari-script-observer) *(open source, MIT; in active development)*
 A Safari extension that has a self-hosted LLM judge each page as you browse, and holds the
 risky moments (typing a password or card number, downloads, commands copied to the
 clipboard) until the model decides. Page contents go only to a model server you own.
